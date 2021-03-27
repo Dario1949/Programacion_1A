@@ -1,0 +1,3 @@
+Algoritmo hola mundo
+	
+FinAlgoritmo
